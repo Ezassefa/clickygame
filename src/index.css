@@ -1,0 +1,18 @@
+.div.card{
+    height: 300px;
+    border: 2px solid black;
+}
+.img.card-image{
+    height: 300px;
+}
+.header{
+    background: linear-gradient(to right,#0693e3 ,#0693e3);
+    height: 200px;
+}
+.header h1{
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    color: grey;
+    font-size: 3rem;
+}

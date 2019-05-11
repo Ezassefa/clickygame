@@ -1,0 +1,62 @@
+ [
+  {
+    "id": 1,
+    "img":
+      "https://img.pngio.com/captain-america-civil-war-ant-man-01-png-by-imangelpeabody-ant-man-png-748_1068.png",
+   "clicked": false
+  },
+  {"id": 2,
+    "img":
+      "https://timedotcom.files.wordpress.com/2016/04/captain-america.jpg",
+    "clicked": false
+  },
+  {"id": 3,
+    "img":
+      "https://static1.squarespace.com/static/583c906ebe659429d1106265/t/5935941859cc687293cd3f6b/1496683572683/?format=1000w",
+    "clicked": false
+  },
+  {"id": 4,
+    "img":
+      "https://upload.wikimedia.org/wikipedia/en/3/3c/Chris_Hemsworth_as_Thor.jpg",
+    "clicked": false
+  },
+  {"id": 5,
+    "img":
+      "https://imgix.bustle.com/uploads/image/2019/5/7/b1337414-6082-48a9-9b9f-212fac44c844-avengers-endgame-hulk.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70",
+    "clicked": false
+  },
+  {"id": 6,
+    "img":
+      "https://pmcvariety.files.wordpress.com/2017/02/spidermanavengersdowney.jpg",
+    "clicked": false
+  },
+  {"id": 7,
+    "img":
+      "https://img1.looper.com/img/gallery/the-untold-truth-of-gamora/intro-1524499620.jpg",
+    "clicked": false
+  },
+  {"id": 8,
+    "img": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/9/96/Star-Lord_AIW_Profile.jpg/revision/latest/scale-to-width-down/2000?cb=20180518211942",
+    "clicked": false
+  },
+  {"id": 9,
+    "img":
+      "https://images.immediate.co.uk/volatile/sites/3/2018/03/DTT4430_v707.1023-61174bd.jpg?quality=45&resize=710,472",
+    "clicked": false
+  },
+  {"id": 10,
+    "img":
+      "https://www.rollingstone.com/wp-content/uploads/2018/06/blackpanther59e4d0531eba6-180b3a6a-af62-4529-9a0d-7bd863f15cc6.jpg?crop=900:600&width=1910",
+    "clicked": false
+  },
+  {"id": 11,
+    "img":
+      "https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2019/04/captain_america-civil_war-anthony_mackie-photofest-h_2019.jpg",
+    "clicked": false
+  },
+  {"id": 12,
+    "img":
+      "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/d/d9/Doctor_Strange_AIW_Profile.jpg/revision/latest/scale-to-width-down/2000?cb=20180518212354",
+    "clicked": false
+  }
+]
